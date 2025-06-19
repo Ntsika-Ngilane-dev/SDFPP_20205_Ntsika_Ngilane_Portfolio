@@ -1,28 +1,21 @@
 # Ntsika Ngilane Resume Website
 
-This is a personal resume website built as part of the SDF Resume Project challenge.
+A pixel-perfect resume website built with semantic HTML5 and CSS, based on a Figma design.
 
-## 📌 Features
+## Features
 
-- Fully responsive HTML/CSS website based on Figma design
-- Project and skill details pulled directly from my GitHub
-- Clean semantic HTML5 structure
-- Styled with custom CSS (no frameworks)
+- Fully responsive layout using Flexbox and Grid where needed
+- Matching Figma design in color, spacing, font, and section structure
+- GitHub projects integrated into the layout with semantic markup
 
-## 🛠️ Technologies Used
+## How to Use
 
-- HTML5
-- CSS3
-- GitHub (for version control)
-
-## 📂 How to Run
-
-1. Download or clone the repository.
+1. Download and unzip the folder.
 2. Open `index.html` in your browser.
 
-## 🙋 Contact
+## Contact
 
-Ntsika Ngilane  
+**Ntsika Ngilane**  
 
 📞 +27 81 674 5941  
 

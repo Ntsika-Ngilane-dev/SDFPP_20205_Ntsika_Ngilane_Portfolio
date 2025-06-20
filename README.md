@@ -4,9 +4,9 @@ A pixel-perfect resume website built with semantic HTML5 and CSS, based on a Fig
 
 ## Features
 
-- Fully responsive layout using Flexbox and Grid where needed
-- Matching Figma design in color, spacing, font, and section structure
-- GitHub projects integrated into the layout with semantic markup
+- Fully responsive layout using Flexbox and Grid
+- Figma-accurate styling for spacing, colors, and typography
+- GitHub projects integrated
 
 ## How to Use
 
@@ -16,7 +16,5 @@ A pixel-perfect resume website built with semantic HTML5 and CSS, based on a Fig
 ## Contact
 
 **Ntsika Ngilane**  
-
 📞 +27 81 674 5941  
-
 🔗 [GitHub Profile](https://github.com/Ntsika-Ngilane-dev)
